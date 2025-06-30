@@ -145,93 +145,93 @@ Si une formation vous accepte, partez du principe que vous avez le niveau pour r
 
 ## Lycées proposant la filière MP2I
 
-Voici la liste des établissements proposant la MP2I, classés par taux d'accessibilité selon les données 2023 de Parcoursup.
+Voici la liste des établissements proposant la MP2I, classés par taux d'accessibilité selon les données 2024 de Parcoursup.
 
 Les nombres de demandes et rangs du dernier admis présentés ci-dessous correspondent aux lycéens de terminale de la voie générale pour la phase principale uniquement.
 
 | Type   | Lycée | Ville | Nombre de demandes | Rang du dernier admis | Internat |
-|:------:|:-----:|:-----:|:-------------------:|:----------------------:|:------:|
-| Public | [Louis Le Grand]                   | Paris 05 | 2498 | 152 | Oui |
-| Public | [Saint-Louis]                      | Paris 06 | 2718 | 241 | Oui |
-| Public | [Le Parc]                          | Lyon 06 | 2247 | 270 | Oui |
-| Public | [Hoche]                            | Versailles | 1905 | 279 | Oui |
-| Public | [Janson de Sailly]                 | Paris 16 | 2510 | 464 | Oui |
-| Public | [Clémenceau]                       | Nantes | 1115 | 416 | Oui |
-| Public | [Pierre De Fermat]                 | Toulouse | 1902 | 284 | Oui |
-| Public | [Montaigne]                        | Bordeaux | 1488 | 366 | Oui |
-| Privé  | [Aux Lazaristes]                   | Lyon 05 | 1447 | 167 | Oui |
-| Public | [Kléber]                           | Strasbourg | 910 | 321 | Oui |
-| Public | [Descartes]                        | Tours | 1144 | 372 | Oui |
-| Public | [La Martinière Monplaisir]         | Lyon 08 | 1544 | 338 | Oui |
-| Public | [Faidherbe]                        | Lille | 986 | 275 | Oui |
-| Privé  | [Fénelon Sainte-Marie]             | Paris 08 | 1332 | 349 | Non |
-| Public | [Gay-Lussac]                       | Limoges | 461 | 265 | Oui |
-| Public | [Champollion]                      | Grenoble | 1353 | 338 | Oui |
-| Public | [Paul Valéry]                      | Paris 12 | 2242 | 716 | Oui |
-| Public | [Thiers]                           | Marseille 01 | 1017 | 299 | Oui |
-| Public | [La Fayette]                       | Clermont-Ferrand | 485 | 290 | Oui |
-| Public | [Pierre Corneille]                 | Rouen | 737 | 278 | Oui |
-| Public | [Alain René Lesage]                | Vannes | 594 | 331 | Oui |
-| Public | [Henri Poincaré]                   | Nancy | 733 | 305 | Oui |
-| Public | [Henri Wallon]                     | Valenciennes | 442 | 221 | Oui |
-| Public | [Berthollet]                       | Annecy | 732 | 275 | Oui |
-| Public | [Centre International de Valbonne] | Valbonne | 725 | 217 | Oui |
-| Public | [Joffre]                           | Montpellier | 1436 | 283 | Oui |
-| Public | [Carnot]                           | Dijon | 889 | 465 | Oui |
-| Public | [Claude Fauriel]                   | Saint-Etienne | 1013 | 544 | Oui |
-| Public | [Colbert]                          | Tourcoing | 380 | 242 | Oui |
-| Public | [Leconte de Lisle]                 | Saint-Denis 974 | 168 | 111 | Oui |
-| Public | [Victor Hugo]                      | Besançon | 621 | 448 | Oui |
-| Public | [Camille Guérin]                   | Poitiers | 841 | 480 | Oui |
-| Public | [Franklin Roosevelt]               | Reims | 692 | 442 | Oui |
-| Public | [Louis Thuillier]                  | Amiens | 707 | 458 | Oui |
-| Public | [Charles Coëffin]                  | Baie-Mahault | 165 | 112 | Oui |
-| Privé  | [Frédéric Ozanam]                  | Lille | 217 | 199 | Non |
-| Public | [Guy Mollet]                       | Arras | 487 | 358 | Oui |
-| Public | [Alfred Kastler]                   | Denain | 383 | 335 | Oui |
-| Privé  | [Jean XXIII]                       | Montigny-lès-Metz | 112 | 104 | Non |
-| Public | [Claude Bernard]                   | Paris 16 | 1202 | 573 | Oui |
+|:------:|:-----:|:-----:|:-------------------:|:----------------------:|:--------:|
+| Public | [Lycée Louis Le Grand] | Paris | 2859 | 181.0 | Non |
+| Public | [Lycée Saint-Louis] | Paris | 3140 | 306.0 | Non |
+| Public | [Lycée du Parc] | Lyon | 2628 | 315.0 | Non |
+| Privé sous contrat d'association | [Lycée Aux Lazaristes] | Lyon | 1571 | 167.0 | Non |
+| Public | [Lycée Hoche] | Versailles | 2176 | 322.0 | Non |
+| Public | [Lycée Pierre De Fermat] | Toulouse | 2215 | 299.0 | Non |
+| Public | [Lycée Janson De Sailly] | Paris | 2882 | 529.0 | Non |
+| Public | [Lycée Joffre] | Montpellier | 1968 | 334.0 | Non |
+| Public | [Lycée La Martiniere Monplaisir] | Lyon | 1899 | 440.0 | Non |
+| Public | [Lycée Montaigne] | Bordeaux | 1757 | 368.0 | Non |
+| Public | [Lycée Champollion] | Grenoble | 1732 | 416.0 | Non |
+| Privé sous contrat d'association | [Lycée Fénelon Sainte-Marie] | Paris | 1490 | 494.0 | Non |
+| Public | [Lycée Faidherbe] | Lille | 1251 | 349.0 | Non |
+| Public | [Lycée Thiers] | Marseille | 1388 | 300.0 | Non |
+| Public | [Lycée International de Valbonne] | Valbonne | 1153 | 267.0 | Non |
+| Public | [Lycée Paul Valery] | Paris | 2701 | 861.0 | Non |
+| Public | [Lycée Descartes] | Tours | 1385 | 393.0 | Non |
+| Public | [Lycée Kléber] | Strasbourg | 1172 | 384.0 | Non |
+| Public | [Lycée Berthollet] | Annecy | 934 | 443.0 | Non |
+| Public | [Lycée général Clemenceau] | Nantes | 1350 | 433.0 | Non |
+| Public | [Lycée Pierre Corneille] | Rouen | 1062 | 291.0 | Non |
+| Public | [Lycée Henri Poincaré] | Nancy | 1062 | 310.0 | Non |
+| Public | [Lycée Henri Wallon] | Valenciennes | 685 | 275.0 | Non |
+| Public | [Lycée Claude Bernard] | Paris | 1660 | 707.0 | Non |
+| Public | [Lycée Claude Fauriel] | Saint-Étienne | 1653 | 730.0 | Non |
+| Public | [Lycée Carnot] | Dijon | 1549 | 498.0 | Non |
+| Public | [Lycée Gay-Lussac] | Limoges | 567 | 292.0 | Non |
+| Public | [Lycée Camille Guérin] | Poitiers | 1891 | 567.0 | Non |
+| Public | [Lycée Alain René Lesage] | Vannes | 819 | 392.0 | Non |
+| Public | [Lycée La Fayette] | Clermont-Ferrand | 689 | 329.0 | Non |
+| Public | [Lycée Colbert] | Tourcoing | 912 | 296.0 | Non |
+| Public | [Lycée Franklin Roosevelt] | Reims | 1593 | 498.0 | Non |
+| Public | [Lycée Louis Thuillier] | Amiens | 1802 | 491.0 | Non |
+| Public | [Lycée Leconte de Lisle] | Saint-Denis | 228 | 121.0 | Non |
+| Public | [Lycée Guy Mollet] | Arras | 1736 | 413.0 | Non |
+| Public | [Lycée Charles Coeffin] | Baie-Mahault | 192 | 118.0 | Non |
+| Public | [Lycée Victor Hugo] | Besançon | 1353 | 461.0 | Non |
+| Public | [Lycée Alfred Kastler] | Denain | 2132 | 427.0 | Non |
+| Privé sous contrat d'association | [Lycée Frédéric OZANAM] | Lille | 442 | 221.0 | Non |
+| Privé sous contrat d'association | [Lycée Jean XXIII] | Montigny-lès-Metz | 276 | 129.0 | Non |
 
-[Alain René Lesage]: https://lycee-lesage.fr/
-[Alfred Kastler]: https://lgt-alfred-kastler-denain.59.ac-lille.fr/s
-[Aux Lazaristes]: https://www.auxlazaristeslasalle.fr/
-[Berthollet]: https://lycee-berthollet-annecy.web.ac-grenoble.fr/
-[Carnot]: https://cpge-carnot.fr/
-[Camille Guérin]: https://lyc-camilleguerin.fr/
-[Centre International de Valbonne]: http://prepa.civfrance.com/
-[Champollion]: https://lycee-champollion.fr/
-[Charles Coëffin]: https://charlescoeffin.lyc.ac-guadeloupe.fr/
-[Claude Bernard]: https://pia.ac-paris.fr/serail/jcms/s2_544112/fr/accueil
-[Claude Fauriel]: https://claude-fauriel.ent.auvergnerhonealpes.fr/
-[Clémenceau]: https://gclemenceau.paysdelaloire.e-lyco.fr/
-[Colbert]: https://www.lyceecolbert-tg.org/
-[Descartes]: https://www.lyc-descartes.fr/
-[Faidherbe]: https://www.faidherbe.org/
-[Fénelon Sainte-Marie]: https://www.fenelonsaintemarie.org/
-[Franklin Roosevelt]: https://lycee-roosevelt-reims.fr/
-[Frédéric Ozanam]: https://www.groupe-oec.fr/formations/classes-preparatoires/
-[Gay-Lussac]: https://www.lyc-gaylussac.ac-limoges.fr/
-[Guy Mollet]: https://lyceeguymollet.fr/
-[Henri Poincaré]: https://lycee-poincare.fr/
-[Henri Wallon]: https://lyceehenriwallon-valenciennes.fr/
-[Hoche]: https://lyc-hoche-versailles.ac-versailles.fr/
-[Janson de Sailly]: https://www.janson-de-sailly.fr/
-[Jean XXIII]: https://www.metzcampus.fr/campus/pole-superieur-jean-xxiii/
-[Joffre]: https://lycee-joffre-montpellier.mon-ent-occitanie.fr/
-[Kléber]: https://lycee-kleber.com.fr/
-[La Fayette]: https://lycee-lafayette-clermont.fr/
-[La Martinière Monplaisir]: https://martiniere-monplaisir.ent.auvergnerhonealpes.fr/
-[Le Parc]: https://lyceeduparc.fr/ldp/
-[Leconte de Lisle]: https://etab.ac-reunion.fr/lyc-leconte-de-lisle/
-[Louis Le Grand]: https://www.louislegrand.fr/
-[Louis Thuillier]: https://louis-thuillier.ac-amiens.fr/
-[Montaigne]: https://montaigne-bordeaux.fr/
-[Paul Valéry]: https://www.cpge-pv.fr/
-[Pierre Corneille]: https://corneille-rouen.lycee.ac-normandie.fr/
-[Pierre De Fermat]: https://fermat.mon-ent-occitanie.fr/
-[Saint-Louis]: https://pia.ac-paris.fr/serail/jcms/s1_2080097/fr/lycee-saint-louis
-[Thiers]: https://www.site.ac-aix-marseille.fr/lyc-thiers/spip/
-[Victor Hugo]: http://lyceehugobesancon.org/LVH/
+[Lycée Alain René Lesage]: https://lycee-lesage.fr/
+[Lycée Alfred Kastler]: https://lgt-alfred-kastler-denain.59.ac-lille.fr/s
+[Lycée Aux Lazaristes]: https://www.auxlazaristeslasalle.fr/
+[Lycée Berthollet]: https://lycee-berthollet-annecy.web.ac-grenoble.fr/
+[Lycée Carnot]: https://cpge-carnot.fr/
+[Lycée Camille Guérin]: https://lyc-camilleguerin.fr/
+[Lycée International de Valbonne]: http://prepa.civfrance.com/
+[Lycée Champollion]: https://lycee-champollion.fr/
+[Lycée Charles Coeffin]: https://charlescoeffin.lyc.ac-guadeloupe.fr/
+[Lycée Claude Bernard]: https://pia.ac-paris.fr/serail/jcms/s2_544112/fr/accueil
+[Lycée Claude Fauriel]: https://claude-fauriel.ent.auvergnerhonealpes.fr/
+[Lycée général Clemenceau]: https://gclemenceau.paysdelaloire.e-lyco.fr/
+[Lycée Colbert]: https://www.lyceecolbert-tg.org/
+[Lycée Descartes]: https://www.lyc-descartes.fr/
+[Lycée Faidherbe]: https://www.faidherbe.org/
+[Lycée Fénelon Sainte-Marie]: https://www.fenelonsaintemarie.org/
+[Lycée Franklin Roosevelt]: https://lycee-roosevelt-reims.fr/
+[Lycée Frédéric Ozanam]: https://www.groupe-oec.fr/formations/classes-preparatoires/
+[Lycée Gay-Lussac]: https://www.lyc-gaylussac.ac-limoges.fr/
+[Lycée Guy Mollet]: https://lyceeguymollet.fr/
+[Lycée Henri Poincaré]: https://lycee-poincare.fr/
+[Lycée Henri Wallon]: https://lyceehenriwallon-valenciennes.fr/
+[Lycée Hoche]: https://lyc-hoche-versailles.ac-versailles.fr/
+[Lycée Janson de Sailly]: https://www.janson-de-sailly.fr/
+[Lycée Jean XXIII]: https://www.metzcampus.fr/campus/pole-superieur-jean-xxiii/
+[Lycée Joffre]: https://lycee-joffre-montpellier.mon-ent-occitanie.fr/
+[Lycée Kléber]: https://lycee-kleber.com.fr/
+[Lycée La Fayette]: https://lycee-lafayette-clermont.fr/
+[Lycée La Martiniere Monplaisir]: https://martiniere-monplaisir.ent.auvergnerhonealpes.fr/
+[Lycée du Parc]: https://lyceeduparc.fr/ldp/
+[Lycée Leconte de Lisle]: https://etab.ac-reunion.fr/lyc-leconte-de-lisle/
+[Lycée Louis Le Grand]: https://www.louislegrand.fr/
+[Lycée Louis Thuillier]: https://louis-thuillier.ac-amiens.fr/
+[Lycée Montaigne]: https://montaigne-bordeaux.fr/
+[Lycée Paul Valery]: https://www.cpge-pv.fr/
+[Lycée Pierre Corneille]: https://corneille-rouen.lycee.ac-normandie.fr/
+[Lycée Pierre De Fermat]: https://fermat.mon-ent-occitanie.fr/
+[Lycée Saint-Louis]: https://pia.ac-paris.fr/serail/jcms/s1_2080097/fr/lycee-saint-louis
+[Lycée Thiers]: https://www.site.ac-aix-marseille.fr/lyc-thiers/spip/
+[Lycée Victor Hugo]: http://lyceehugobesancon.org/LVH/
 
 À la rentrée 2025, un lycée ouvrira une classe MP2I :
 
@@ -241,20 +241,22 @@ Les nombres de demandes et rangs du dernier admis présentés ci-dessous corresp
 
 {{< admonition info "MP2I ayant une capacité d'accueil différente de 48 places" false >}}
 
-| Lycée            | Nombre de places |
+| Lycée | Nombre de places |
 |:----------------:|:----------------:|
-| Alfred Kastler   | 24 |
-| Aux Lazaristes   | 10 |
-| Charles Coeffin  | 23 |
-| Colbert          | 24 |
-| Frédéric Ozanam  | 30 |
-| Gay-Lussac       | 24 |
-| Guy Mollet       | 24 |
-| Henri allon      | 24 |
-| Jean XXIII       | 25 |
-| La Fayette       | 24 |
-| Leconte de Lisle | 24 |
-| Saint-Louis      | 47 |
-| Victor Hugo      | 45 |
+| Lycée Alfred Kastler | 24 |
+| Lycée Aux Lazaristes | 10 |
+| Lycée Berthollet | 24 |
+| Lycée Charles Coeffin | 23 |
+| Lycée Colbert | 24 |
+| Lycée Frédéric OZANAM | 30 |
+| Lycée Fénelon Sainte-Marie | 45 |
+| Lycée Gay-Lussac | 24 |
+| Lycée Guy Mollet | 24 |
+| Lycée Henri Wallon | 24 |
+| Lycée Jean XXIII | 25 |
+| Lycée La Fayette | 24 |
+| Lycée Leconte de Lisle | 24 |
+| Lycée Victor Hugo | 45 |
+| Lycée du Parc | 47 |
 
 {{< /admonition >}}
